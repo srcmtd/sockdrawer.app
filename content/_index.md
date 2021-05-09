@@ -1,9 +1,9 @@
 ---
-title : "Modern Documentation Theme"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2020-10-06T08:47:36+00:00
+title : "Sockdrawer"
+description: "Sockdrawer is an alias identity manager for Red Teams, OSINT collectors, journalists, and privacy-conscious people"
+lead: "Sockdrawer is an alias identity manager for Red Teams, OSINT collectors, journalists, and privacy-conscious people"
+date: 2021-05-09T01:57:00+00:00
+lastmod: 2021-05-09T01:57:00+00:00
 draft: false
 images: []
 ---
