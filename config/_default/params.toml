@@ -1,0 +1,56 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Sockdrawer"
+titleSeparator = "-"
+titleAddition = "Alias identity manager"
+description = "Sockdrawer is an alias identity manager for Red Teams, OSINT collectors, journalists, and privacy-conscious people"
+
+## Open Graph + Twitter Cards
+# images = ["doks.png"]
+# twitterSite = "henkverlinde"
+twitterCreator = "svcghost"
+ogLocale = "en_US"
+
+## JSON-LD
+schemaType = "Organization"
+schemaLogo = "logo-doks.png"
+schemaTwitter = "https://twitter.com/svcghost"
+#schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+schemaGitHub = "https://github.com/mattreduce/sockdrawer"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+
+# Footer
+footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+
+# Alert
+alert = false
+alertText = "Like Sockdrawer? <a class=\"alert-link\" href=\"https://github.com/mattreduce/sockdrawer/stargazers\">Star on GitHub</a>. Thanks!</a>"
+
+# Edit Page
+docsRepo = "https://github.com/mattreduce/sockdrawer.app"
+editPage = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = false
+  breadCrumb = false
+  highLight = true
+  kaTex = false
