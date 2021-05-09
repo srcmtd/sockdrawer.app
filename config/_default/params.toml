@@ -16,7 +16,6 @@ ogLocale = "en_US"
 schemaType = "Organization"
 schemaLogo = "logo-doks.png"
 schemaTwitter = "https://twitter.com/svcghost"
-#schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaGitHub = "https://github.com/mattreduce/sockdrawer"
 schemaSection = "blog"
 
