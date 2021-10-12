@@ -2,5 +2,4 @@ functions
 node_modules
 public
 resources
-# Local Netlify folder
-.netlify
+.vercel
